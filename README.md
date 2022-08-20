@@ -53,19 +53,22 @@ This depository contains the analysis of property listings for a property rental
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-Must browse through from each folder of this repository must start with:
-
-    1.Always start with creating Database in SQL platform.
+    1.Stated with creating the new database and importing all the flat files into the database.
     
-    2.Then Import csv file. Below procedure and screenshot shows how to  **import CSV**  dataset in SQL SERVER.
+    2.Did a bit of cleaning and changed the datatypes accordingly.
     
-         o First go to Explorer window section.
-         
-         o Left click on database in Explorer window 
-         
-         o Then select Task option 
-         
-         o And in last go to Import Flat file section and select CSV files and import it.
+    3.Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
+    
+    4.Also used some of the aggregate functions like sum, average , count along with case when statement and windows function to analysis the data.
+    
+    5.Took help of CTEs for writing the some of the complex queries for bucketing.
+    
+    6.Exported all the tables from SQL to excel and created required pivot tables to gain some insights.
+    
+    7.Created the pivot charts from the table for better understanding of the data.
+    
+    8.Also Designed a interactive dashboard from the charts for better visualisation.
+    
             
    
 
