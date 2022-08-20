@@ -1,6 +1,8 @@
 # 
 # <img src="https://user-images.githubusercontent.com/108053296/185731493-565fc7cd-50de-4fba-af77-7eec53f6e596.png" width="48" height="48" >  **Property Listing Analysis Through SQL**
 
+This depository contains the analysis of property listings for a property rental company.
+
 
 <br>
 <br>
