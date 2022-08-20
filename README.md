@@ -16,7 +16,7 @@
 | **Project Excel File**  | This file provides the excel wooksheet containing pivot tables and dashboard  |
 <br>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185732661-0768be2f-535e-45cf-8175-23e5808ff6f6.png" width="400" ></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/108053296/185732888-39f69567-127a-4a20-ad80-2381ab16739f.gif" width="400" ></p>
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
