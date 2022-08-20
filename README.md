@@ -82,7 +82,9 @@ This depository contains the analysis of property listings for a property rental
 <p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p>
 
 
+<br>
 
+## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
 
 
 <!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
