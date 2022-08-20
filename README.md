@@ -40,7 +40,7 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
-![image](https://user-images.githubusercontent.com/108053296/185732152-a95dba8d-b4f9-4e20-86dc-31b0e819e013.png)
+![image](https://user-images.githubusercontent.com/108053296/185732152-a95dba8d-b4f9-4e20-86dc-31b0e819e013.svg)
 
 
 
