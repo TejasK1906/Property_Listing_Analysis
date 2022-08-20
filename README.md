@@ -53,21 +53,21 @@ This depository contains the analysis of property listings for a property rental
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
-    1.Stated with creating the new database and importing all the flat files into the database.
+    1. Stated with creating the new database and importing all the flat files into the database.
     
-    2.Did a bit of cleaning and changed the datatypes accordingly.
+    2. Did a bit of cleaning and changed the datatypes accordingly.
     
-    3.Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
+    3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
     
-    4.Also used some of the aggregate functions like sum, average , count along with case when statement and windows function to analysis the data.
+    4. Also used some of the aggregate functions like sum, average , count along with case when statement and windows function to analysis the data.
     
-    5.Took help of CTEs for writing the some of the complex queries for bucketing.
+    5. Took help of CTEs for writing the some of the complex queries for bucketing.
     
-    6.Exported all the tables from SQL to excel and created required pivot tables to gain some insights.
+    6. Exported all the tables from SQL to excel and created required pivot tables to gain some insights.
     
-    7.Created the pivot charts from the table for better understanding of the data.
+    7. Created the pivot charts from the table for better understanding of the data.
     
-    8.Also Designed a interactive dashboard from the charts for better visualisation.
+    8. Also Designed a interactive dashboard from the charts for better visualisation.
     
             
    
@@ -85,6 +85,14 @@ This depository contains the analysis of property listings for a property rental
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
+   
+   1. Most of the reviews and ratings from the customers buying different properties were positive which shows that the customers are satisfied with the kind of property the company is offering.
+   
+   2. March-April and December is peak season for the company and around June month is the off peak season.
+   
+   3. Properties in Vancouver is way more costlier than that of properties in Toronto.
+   
+   4. Shared rooms have worse cleanliness rating and also priced low compared to others.
 
 
 <!--  ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
