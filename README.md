@@ -21,7 +21,7 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
    
     
-    o     Analysed the working of the property rental company.    
+    o      Analysed the working of the property rental company.    
     
     o	Explored the trends for the different property types listed on the platform.
      
@@ -40,7 +40,7 @@
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
-![image](https://user-images.githubusercontent.com/108053296/185733022-6f9e212a-48c1-4308-92de-59ea7b4f3b6f.svg)
+
 
 
 
